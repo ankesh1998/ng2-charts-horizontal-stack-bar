@@ -1,3 +1,3 @@
-# ng2-charts-horizontalbar-stack-lysprd
+# ng2-charts-horizontal-stack-bar with custom tooltip
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ng2-charts-horizontalbar-stack-lysprd)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ng2-charts-horizontal-stack-bar)
